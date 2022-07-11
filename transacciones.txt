@@ -1,0 +1,4 @@
+Fecha: Sun May  1 18:53:25 2022 !Moneda: BTC ! Operaciï¿½n: Envï¿½o Criptomoneda ! Cï¿½digo de usuario: hsada ! Cantidad: 10 ! Monto en USD: 38308.83778649146 !
+Fecha: Wed May 25 11:11:46 2022 ! Moneda: BTC ! Operación: Envío Criptomoneda ! Código de usuario: 4545ju ! Cantidad: 100 ! Monto en USD: 29673.653605841246 !
+Fecha: Wed May 25 11:29:01 2022 ! Moneda: BTC ! Operación: Envío Criptomoneda ! Código de usuario: 15dd ! Cantidad: 10 ! Monto en USD: 29834.2202264292 !
+Fecha: Wed May 25 11:56:49 2022 ! Moneda: BTC ! Operación: Recibir Criptomoneda ! Código de usuario: 1234 ! Cantidad: 1 ! Monto en USD: 29732.32935058456 !
